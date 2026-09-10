@@ -4,7 +4,7 @@ Private Internal Listing Management Tool
 
 ## Project Overview
 
-ListingFlow is a private internal tool designed to manage draft listings for the Etsy shop owned and authorized by the application owner.
+ListingFlow is a private internal tool designed to manage draft listings for the Etsy shop owned and operated by the application owner.
 
 The application uses the official Etsy Open API v3 and OAuth 2.0 to securely manage the shop owner's listing workflow.
 
